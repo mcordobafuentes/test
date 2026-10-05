@@ -12,3 +12,4 @@ C:\Users\alumnoFI\Desktop\Rep01\test\Console\obj\Debug\net10.0\refint\Console.dl
 C:\Users\alumnoFI\Desktop\Rep01\test\Console\obj\Debug\net10.0\Console.pdb
 C:\Users\alumnoFI\Desktop\Rep01\test\Console\obj\Debug\net10.0\Console.genruntimeconfig.cache
 C:\Users\alumnoFI\Desktop\Rep01\test\Console\obj\Debug\net10.0\ref\Console.dll
+C:\Users\alumnoFI\Desktop\Rep01\test\Console\obj\Debug\net10.0\Console.sourcelink.json
